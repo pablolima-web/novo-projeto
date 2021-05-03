@@ -1,0 +1,1 @@
+The Bootstrapper.Common package won't be of much use on its own and only serves as a shared resource for other Bootstrapper-related packages.

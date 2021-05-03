@@ -1,0 +1,4 @@
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Release\ProjetoModeloDDD.Domain.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Release\ProjetoModeloDDD.Domain.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Release\ProjetoModeloDDD.Domain.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Release\ProjetoModeloDDD.Domain.pdb

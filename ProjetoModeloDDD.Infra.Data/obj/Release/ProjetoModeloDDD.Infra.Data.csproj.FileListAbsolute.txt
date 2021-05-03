@@ -1,0 +1,14 @@
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.dll.config
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domain.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domain.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.xml
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.Migrations.disponivel_tipo_bit.resources
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.GenerateResource.Cache
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.pdb

@@ -1,0 +1,11 @@
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+D:\estudo\DDD\Eduado Pires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
